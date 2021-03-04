@@ -3,7 +3,7 @@
 #### I'm a Designer and Developer
 
 <!--<img width="250px" hight="150px" src="https://i.pinimg.com/originals/0e/76/a3/0e76a3bdb9a5f816879b8275dfd7238b.gif" />-->
-<img width="250px" hight="150px src="https://cdn.dribbble.com/users/2459439/screenshots/5327872/gamer_girl.gif">
+<img width="250px" hight="150px src="https://cdn.dribbble.com/users/2459439/screenshots/5327872/gamer_girl.gif"/>
 
 <!--
 **victoria2266/victoria2266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
