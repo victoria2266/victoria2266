@@ -1,12 +1,12 @@
-<!--### Hi I'm Victoria 👋
+<!--### Hi I'm Victoria 👋-->
 
 ![I'm Victoria a Designer and Developer]
--->
+
 <h1><p align="center">Hello, I'm Victoria! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <div align="center"> 
 <img width="250px" hight="150px" src="https://i.pinimg.com/originals/0e/76/a3/0e76a3bdb9a5f816879b8275dfd7238b.gif" />
-  ![I'm a Designer and Developer]
+  <p>I'm a Designer and Developer<p/>
 </div> 
 <!--
 **victoria2266/victoria2266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-
 -->
+
 #### Languages and Tools
 <div align="left"> 
 <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /> 
