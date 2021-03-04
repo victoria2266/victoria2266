@@ -1,6 +1,9 @@
 ### Hi there 👋
 #### I'm Victoria a Designer and Developer
-![I'm Victoria a Designer and Developer](https://i.pinimg.com/originals/0e/76/a3/0e76a3bdb9a5f816879b8275dfd7238b.gif)
+<!--![I'm Victoria a Designer and Developer](https://i.pinimg.com/originals/0e/76/a3/0e76a3bdb9a5f816879b8275dfd7238b.gif)-->
+
+
+[<img align="center" width="22px" src="https://i.pinimg.com/originals/0e/76/a3/0e76a3bdb9a5f816879b8275dfd7238b.gif" />]
 
 <!--
 **victoria2266/victoria2266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +26,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/victoria2266)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victoria15//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/victoria2266)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victoria15//)  
 
 
