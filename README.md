@@ -1,16 +1,14 @@
-<!--### Hi I'm Victoria 👋-->
+### Hi I'm Victoria 👋
 
-<h1><p align="center">Hello, I'm Victoria! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-
-<div align="center"> 
 <img width="250px" hight="150px" src="https://i.pinimg.com/originals/0e/76/a3/0e76a3bdb9a5f816879b8275dfd7238b.gif" />
-  <p>I'm a Designer and Developer<p/>
-</div> 
+
+![I'm Victoria a Designer and Developer]
+
 <!--
 **victoria2266/victoria2266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<p>Languages and Tools<p/>
+####Languages and Tools
 <div align="left"> 
 <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /> 
 <img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
@@ -27,7 +25,7 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </div>  
 
-<p>Contact<p/>
+####Contact
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victoria15//)  
 
 
