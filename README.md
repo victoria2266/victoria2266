@@ -1,7 +1,7 @@
-### Hi there 👋
-#### I'm Victoria a Designer and Developer
+### Hi I'm Victoria 👋
+<hr/>
+#### I'm a Designer and Developer
 <!--![I'm Victoria a Designer and Developer](https://i.pinimg.com/originals/0e/76/a3/0e76a3bdb9a5f816879b8275dfd7238b.gif)-->
-
 
 <img align="center" width="250px" hight="150px" src="https://i.pinimg.com/originals/0e/76/a3/0e76a3bdb9a5f816879b8275dfd7238b.gif" />
 
@@ -25,7 +25,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 
 -->
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/https://github.com/victoria2266)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victoria15//)  
+## Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+## Contact
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victoria15//)  
 
 
