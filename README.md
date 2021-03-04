@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Victoria
 
 #### I'm a Designer and Developer
-![I'm a Designer and Developer]
 
 <img width="250px" hight="150px" src="https://i.pinimg.com/originals/0e/76/a3/0e76a3bdb9a5f816879b8275dfd7238b.gif" />
 
